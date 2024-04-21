@@ -1,4 +1,4 @@
-<h1 align="left">Hello, world of collaborators and innovators! 🚀 Let's code our way to greatness together!"</h1>
+<h1 align="left">🚀 Let's code our way to greatness together!"</h1>
 
 ###
 
@@ -84,6 +84,13 @@
 
 ###
 
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosMarioV&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMarioV&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+###
 <!---
 CarlosMarioV/CarlosMarioV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
