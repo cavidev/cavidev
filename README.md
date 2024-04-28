@@ -9,7 +9,7 @@
 
 <h2 align="left">==> About me</h2>
 
-<p align="left">👋 Hello, I'm @CarlosMarioV! <br>
+<p align="left">👋 Hello, I'm @cavidev! <br>
 ||> 👀 Passionate about Frontend development and fascinated by the endless possibilities of AI and Machine Learning. <br>
 ||> 🌱 Currently diving deep into Solid.js, Machine Learning, and Cybersecurity to expand my skill set and knowledge base. <br>
 ||> 💞️ I'm eager to collaborate on projects related to Machine Learning, AI, and Big Data, where I can contribute my expertise and learn from others. <br>
@@ -66,16 +66,16 @@
   <a href="https://www.linkedin.com/in/carlosmariovillafuerte/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="carlosmario.villafuerted66@gmail.com" target="_blank">
+  <a href="mailto:carlosmario.villafuerted66@gmail.com?subject=Contact by Github" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosMarioV&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cavidev&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMarioV&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cavidev&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ###
 <!---
