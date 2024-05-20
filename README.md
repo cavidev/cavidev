@@ -23,21 +23,36 @@
     ||> 📫 Feel free to reach out to me at <a href="mailto: carlosmario.villafuerted66@gmail.com" >carlosmario.villafuerted66@gmail.com</a> to connect and explore exciting opportunities together!
   </li>
 </ul>
+
 <div aling="justify">
+  <h2> Career path </h2>
   <table >
     <tr>
-      <th> Frontend Skills and Frameworks </th>
-      <th> Backend Skills </th>
+      <td align="center" >
+        <img align="center" src="./img/Computer.png">
+        <p>Sofware Computer</p>
+      </td>
+      <td colspan="3">
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+      </td>
     </tr>
-    <tr>
-      <td>
-        <div align="left" width="50%" >
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-          <img width="12"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-          <img width="12" />
+    <tr >
+      <td align="center" rowspan="2">
+        <img align="center" width="40px" src="./img/web_development.png">
+        <p>Web Development</p>
+      </td>
+      <td align="center" >
+        <p>Frontend</p>
+      </td>
+      <td align="center" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+        <img width="12"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+                  <img width="12" />
           <img title="Learning" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
           <img width="12" />
           <img title="With Strong foundations, but continue learning" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -47,30 +62,29 @@
           <img title="Deprecated: But with foundations" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Backend
       </td>
       <td>
-        <div align="left">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-        </div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
       </td>
     </tr>
-      <tr>
-      <th colspan="2"> Database Skills </th>
-    </tr>
-    <td colspan="2">
-      <div align="left">
+    <tr>
+      <td align="center">
+        <img align="center" width="40px" src="./img/database.png">
+        <p>Database</p>
+      </td>
+      <td colspan="3" >
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-      </div>
-    </td>
+      </td>
+    </tr>
   <table/>
 </div>
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=CarlosMarioV&theme=dark" alt="Layout with last medium posts"  />
@@ -97,4 +111,6 @@
 <!---
 CarlosMarioV/CarlosMarioV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+![alt text](https://github.com/cavidev/css-journey/blob/main/animation/div_animations.gif?raw=true) F
 --->
