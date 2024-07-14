@@ -36,9 +36,11 @@
         <p>Sofware Computer</p>
       </td>
       <td colspan="3">
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
           <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+          <a href="https://github.com/cavidev/python-learning-journey"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
+          <img width="12" />
+          <a height="40" href="https://github.com/cavidev/docker-journey"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /></a>
       </td>
     </tr>
     <tr >
@@ -116,4 +118,6 @@ CarlosMarioV/CarlosMarioV is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 
 ![alt text](https://github.com/cavidev/css-journey/blob/main/animation/div_animations.gif?raw=true) F
+
+icons: https://github.com/devicons/devicon
 --->
